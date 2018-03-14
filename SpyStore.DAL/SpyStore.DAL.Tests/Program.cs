@@ -6,7 +6,7 @@ namespace SpyStore.DAL.Tests
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
