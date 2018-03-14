@@ -1,12 +1,8 @@
 ﻿using System;
 
-namespace SpyStore.DAL
+class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            
-        }
     }
 }
